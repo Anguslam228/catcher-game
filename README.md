@@ -292,7 +292,7 @@ let mySprite = sprites.create(img`
 ```
 
 ## Control Your Player
-* From ``||Sprites:Sprites||``, drag the ``||Sprites:set [ ] position to x [ ] y [ ]||`` underneath the previous block.
+* From ``||Sprites:Sprites||``, drag the ``||Sprites:set mySprite position to x [ ] y [ ]||`` underneath the previous block.
 * Set the first blank to **mySprite**
 * Set x to 80 and y to 100. This should make your character start at the bottom center of your game screen. 
 You can change the numbers if you'd like.
