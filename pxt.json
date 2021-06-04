@@ -1,18 +1,17 @@
 {
-    "name": "Catcher Game",
+    "name": "Catcher Game 1.0",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "storyboard": "*"
     },
     "files": [
         "main.blocks",
-        "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "main.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "1.4.44",
         "targetId": "arcade"
@@ -20,5 +19,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
