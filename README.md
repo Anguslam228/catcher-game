@@ -132,8 +132,7 @@ info.setScore(0)
 ```
 
 ## Create Your Player
-* From ``||Sprites:Sprites||``, drag the ``||Sprites:set [ ] to sprite [ ] of kind [ ]||`` underneath the previous block.
-* Set the first blank to **mySprite**
+* From ``||Sprites:Sprites||``, drag the ``||Sprites:set mySprite to sprite [ ] of kind [ ]||`` underneath the previous block.
 * Set the second blank to any character you'd like. When you click the blank, there's a bunch to choose from in the **Gallery** tab!
 * Set the third blank to **Player**
 
