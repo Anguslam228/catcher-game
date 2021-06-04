@@ -3,7 +3,7 @@
 ## Set the Scene!
 * Grab a ``||Scene:set background image to [ ]||`` block from ``||Scene:Scene||`` and drag it inside the ``||Loops:on start||`` block.
 * To choose your background, click the blank and head to the **Gallery** tab at the top. There are plenty of pictures to choose from!
-* From ``||Info:Info||``, drag a ``||Info:set score to [ ]||`` block, and connect it underneath ``||Scene:set background image to [ ]||``
+* From ``||Info:Info||``, drag a ``||Info:set score to 0||`` block, and connect it underneath ``||Scene:set background image to [ ]||``
 
 ```blocks
 scene.setBackgroundImage(img`
